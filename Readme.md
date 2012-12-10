@@ -7,7 +7,7 @@ P300 Signal Processing
 ----------------------
 
 Signal acquisition parameters for the g.tec 
-[g.USBamp](http://gtec.at/Products/Hardware-and-Accessories/g.BSamp-Specs-Features) 
+[g.USBamp](http://gtec.at/Products/Hardware-and-Accessories/g.USBamp-Specs-Features) 
 and Emotiv's [EPOC](http://emotiv.com/store/hardware/epoc-bci/epoc-neuroheadset/).
 Additional information on the parameters can be found in the BCI2000 wiki for the
 [gUSBampADC](http://www.bci2000.org/wiki/index.php/User_Reference:gUSBampADC) and 
